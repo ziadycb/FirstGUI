@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="myFirstDatabase@cluster0.mq5vx.mongodb.net">
+  <database-model serializer="dbm" dbms="MONGO" family-id="MONGO" format-version="4.21">
+    <root id="1">
+      <ServerVersion>4.4.6</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="WebMetadate"/>
+    <schema id="3" parent="1" name="admin"/>
+    <schema id="4" parent="1" name="local"/>
+    <table id="5" parent="2" name="WebMetadate"/>
+  </database-model>
+</dataSource>
